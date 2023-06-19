@@ -100,14 +100,12 @@ You must verify two things:
 ```js
 {
     verify: true, 
-    tryServerCnt: tryServerCnt,
     totalTryCnt: totalTryCnt
 }
 ```
 
-|    field     |                description                 |
-| :----------: | :----------------------------------------: |
-|    verify    |        The result of server verify         |
-| tryServerCnt | The times of try to get config from server |
-| totalTryCnt  | The total times of try to find paddingNum  |
+|    field    |                description                |
+| :---------: | :---------------------------------------: |
+|   verify    |        The result of server verify        |
+| totalTryCnt | The total times of try to find paddingNum |
 
