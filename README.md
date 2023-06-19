@@ -75,7 +75,7 @@ where the number of leading zeros at least `difficulty`
 
 #### 2.
 
- In `CONFIG_URL`，you will get the data posted by client, where data likes:
+ In `VERIFY_URL`，you will get the data posted by client, where data likes:
 
 ```json
 {
